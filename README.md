@@ -1,3 +1,5 @@
+![alt text](http://lucene.apache.org/images/mantle-lucene-solr.png)
+
 <!--
     Licensed to the Apache Software Foundation (ASF) under one or more
     contributor license agreements.  See the NOTICE file distributed with
