@@ -1,5 +1,6 @@
 ![alt text](http://lucene.apache.org/images/mantle-lucene-solr.png)
 
+![alt text](https://lucidworks.com/wp-content/uploads/2015/10/building-seo-sem-app-apache-solr1.png)
 
 # Apache Lucene and Solr
 
