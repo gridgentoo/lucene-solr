@@ -1,5 +1,7 @@
 ![alt text](http://lucene.apache.org/images/mantle-lucene-solr.png)
 
+ ![alt text](https://lucidworks.com/wp-content/uploads/2015/10/building-seo-sem-app-apache-solr1.png)
+
 <!--
     Licensed to the Apache Software Foundation (ASF) under one or more
     contributor license agreements.  See the NOTICE file distributed with
@@ -16,7 +18,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
  --
- ![alt text](https://lucidworks.com/wp-content/uploads/2015/10/building-seo-sem-app-apache-solr1.png)
+
 
 # Apache Lucene and Solr
 
